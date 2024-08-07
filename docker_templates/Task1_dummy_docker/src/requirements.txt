@@ -5,3 +5,5 @@ torchmetrics
 torchvision
 Pillow
 numpy
+kornia
+opencv-python
